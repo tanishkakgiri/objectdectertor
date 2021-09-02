@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+    border-radius: 100px    ;
+    border: 5px solid purple;
+}
+.heading{
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: 23px;
+    font-family: cursive;
+}
+.bedroom , .bottels , .desk ,.tvac , .basket{
+    width: 200px;
+    font-size: 20px;
+    background: whitesmoke;
+    border-radius: 20px;
+    border: 3px solid royalblue;
+    color: palevioletred;
+    font-family: monospace;
+}
+.bedroom:hover{
+    color: purple;
+}
+.desk:hover{
+    color: purple;
+}
+.basket:hover{
+    color: purple;
+}
+.tvac:hover{
+    color: purple;
+}
+.bottels:hover{
+    color: purple;
+}
+.footer{
+    font-size: 23px;
+    background-color: powderblue;
+    color:rgb(103, 103, 231);
+    bottom: 0px;
+    width: 100%;
+    line-height: 3;
+    position:fixed;
+    box-shadow: 5px 5px 5px lightseagreen;
+    border-radius: 100px;
+    font-family: 'Satisfy', cursive;
+}
